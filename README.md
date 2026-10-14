@@ -77,7 +77,7 @@ For maximum security, you can optionally verify the integrity and authenticity o
 
    **NOTE:** GPG also prints `WARNING: This key is not certified with a trusted signature!` unless you have marked the key as trusted. This is expected. Confirm that the key fingerprint in the output is `B640 FE80 0920 AD9A EB69 401C 6055 7144 A18B 07BE`.
 
-4. If the verification fails, cancel the installation and contact [IBM for support](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-getting-help).
+4. If the verification fails, cancel the installation and contact [IBM for support](https://cloud.ibm.com/docs/key-protect?topic=key-protect-getting-help).
 
 ## Initializing the Keystores
 
@@ -105,5 +105,3 @@ Optionally, you may include a list of authors, though this is redundant with the
 GitHub list of contributors.
 
 * Author: Timothy Yao <Timothy.Yao@ibm.com>
-
-[issues]: https://github.com/IBM/repo-template/issues/new
