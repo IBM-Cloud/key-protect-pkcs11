@@ -22,7 +22,7 @@ This repository contains some example best practices for open source repositorie
 # Overview
 
 > [!WARNING]
-> **Disclaimer:** The software provided here is for educational purposes only. Use it at your own risk.
+> **Disclaimer:** The software provided here is for the Key Protect product with the "Dedicated" pricing plan.
 
 IBM Cloud® Key Protect has a dedicated key management offering. This service allows you to take ownership of a cloud HSM to fully manage your encryption keys and to perform cryptographic operations.
 
